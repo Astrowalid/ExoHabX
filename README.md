@@ -4,6 +4,7 @@
 ### **Interactive Exoplanet Habitability Simulator & AI Predictor**
 
 [![Live App](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=rocket)](https://astrowalid-exohabx.hf.space/)
+[![Research & ML](https://img.shields.io/badge/Research-AI%20Notebook-blueviolet?style=for-the-badge&logo=googlescholar)](RESEARCH.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
